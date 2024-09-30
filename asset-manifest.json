@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e62cd549.css",
+    "main.js": "/static/js/main.0d1f0a83.js",
+    "static/media/hackjog.png": "/static/media/hackjog.9c3b00eb7ffc10eb8112.png",
+    "static/media/refoodapp.PNG": "/static/media/refoodapp.f6f6ec34b621b0854d1f.PNG",
+    "static/media/digital_library.png": "/static/media/digital_library.86c170b038ef68c7acc5.png",
+    "static/media/ratetol.png": "/static/media/ratetol.be2dac10ed1829cb06a6.png",
+    "static/media/crime-detection.png": "/static/media/crime-detection.4b817525f02c340e82ce.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/clone_trello.png": "/static/media/clone_trello.61514b300e29af0ad14b.png",
+    "static/media/mysql.png": "/static/media/mysql.70fb445d0c1a5b6f6e0a.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/php.png": "/static/media/php.7e75016157f5e7e20172.png",
+    "static/media/laravel.png": "/static/media/laravel.27ab08e7e785bd812649.png",
+    "static/media/expressjs.png": "/static/media/expressjs.620381183324e304343c.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.e62cd549.css.map": "/static/css/main.e62cd549.css.map",
+    "main.0d1f0a83.js.map": "/static/js/main.0d1f0a83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e62cd549.css",
+    "static/js/main.0d1f0a83.js"
+  ]
+}
